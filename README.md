@@ -1,6 +1,6 @@
 # Caravelle-BLE_keymap
 
-Windowsの日本語キーボード設定で自作キーボードキット「 (Caravelle-BLE)[https://satt.booth.pm/items/1644450] 」を使うためのキーマップです。  
+Windowsの日本語キーボード設定で自作キーボードキット「[Caravelle-BLE](https://satt.booth.pm/items/1644450)」を使うためのキーマップです。  
 なるべくデフォルトのキーマップに沿うよう作成しましたが、記号入力などはかなりいじっています。
 
 Caravelle-BLE ビルドガイド
